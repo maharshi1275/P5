@@ -1,0 +1,81 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.three {
+  background-color: #695453;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  height: 210px;
+  width: 900px;
+  border: #695453 solid;
+  margin-left: 35px;
+}
+
+.one {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 65px;
+  width: 175px;
+  height: 180px;
+  padding: 7px;
+  margin-top: 50px;
+  position: relative;
+  top: -220px; /* adjust to control how much it overlaps */
+  z-index: 1;
+}
+
+.two {
+  background-color: #d49a9a;
+  height: 950px;
+  width: 240px;
+  margin-left: 80px;
+  position: relative;
+  top: -90px;
+}
+.four{
+
+  height: 90px;
+  width: 250px;
+  margin-left: 300px;
+  margin-top: 60px;
+  color: #d49a9a;
+}
+.five{
+  color: #d49a9a;
+  width: 600px;
+  height: 50px;
+  margin-left: 300px;
+  margin-top: -20px;
+}
+.op{
+  
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.po{
+    /* background-color: blueviolet; */
+    width: 600px;
+    margin-left: 260px;
+    margin-top: -825px;
+    height: 855px;
+}
+.pp{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.resume-wrapper {
+  border: 2px solid black;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 5%;
+  margin-left: 20px;
+  margin-right: 500px;
+  background-color: beige;
+}
+h2 {
+    color: #140629; /* DodgerBlue - professional and modern */
+}
+
